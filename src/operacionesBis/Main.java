@@ -1,4 +1,5 @@
 package operacionesBis;
+
 import java.util.Scanner;
 
 public class Main {
@@ -78,4 +79,5 @@ public class Main {
 
 		return total;
 	}
+
 }
